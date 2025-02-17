@@ -1,2 +1,3 @@
 # latihan-branch
-Latihan melakukan perpindahan branch
+==
+Ini adalah repository untuk latihan Lmembuat branch baru diGitHub
